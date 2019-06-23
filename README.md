@@ -1,6 +1,6 @@
 # now-github-starter
 
-This is a simple project that makes a [static deployment](https://zeit.co/docs/deployment-types/static)
+This is a simple great project that makes a [static deployment](https://zeit.co/docs/deployment-types/static)
 to Now.
 
 If you added the [Now app](https://github.com/apps/now), upon
